@@ -26,7 +26,7 @@
       "run": "python main.py",
       "input": "1 4 5\r\n1 2 3 4 5",
       "output": "[\\w, \\W]*False[\\w,\\W]*",
-      "comparison": "included",
+      "comparison": "regex",
       "timeout": 10,
       "points": 1
     }
